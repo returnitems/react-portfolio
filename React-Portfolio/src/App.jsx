@@ -35,6 +35,12 @@ const mySkills = [
     frontEnd: false,
     backend: true,
   },
+  {
+    name: "React",
+    comfort: 1,
+    frontEnd: true,
+    backend: false,
+  }
 ];
 
 const App = () => {
